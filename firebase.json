@@ -5,6 +5,13 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/download-from-playstore",
+        "destination": "https://tech.egdash.com",
+        "type": 301
+      }
     ]
   }
 }
