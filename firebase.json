@@ -9,7 +9,7 @@
     "redirects": [
       {
         "source": "/download-from-playstore",
-        "destination": "https://www.egdash.com",
+        "destination": "https://play.google.com/store/apps/details?id=com.seller.egdash",
         "type": 301
       }
     ]
